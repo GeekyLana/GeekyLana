@@ -1,0 +1,13 @@
+SpellsList["light of dexmya"] = {
+name : "Light of DexMya",
+classes : ["bard", "ranger", "wizard",],
+school : "Evoc",
+time : "1 a",
+range : "Self (10 ft radius)",
+rangeMetric : "S:10-ft rad",
+components : "S,M",
+compMaterial : "A splinter of wood",
+duration : "1 min",
+description : "A sphere of intense light bursts from your body, extending to a 10-foot radius.",
+descriptionCantripDie : "1 creature save or Blinded",
+descriptionFull : "A sphere of intense light bursts from your body, extending to a 10-foot radius. Each creature the sphere touches must succeed on a Constitution saving throw or be blinded. Any blinded creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. Creatures sensitive to bright light have disadvantage on saving throws against this spell.",
